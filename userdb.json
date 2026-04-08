@@ -1,4 +1,4 @@
-    {
+]    {
         "device_id": "device123",
         "username": "user1",
         "password": "pass123",
@@ -13,10 +13,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1e935a40ed625516",
-        "username": "user2",
+        "device_id": "edf0370df2a41d9f",
+        "username": "debryt",
         "password": "pass456",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
     }
+
 ]
